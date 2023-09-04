@@ -4622,7 +4622,7 @@ __metadata:
     eslint-plugin-jest: 27.2.1
     eslint-plugin-testing-library: 5.11.0
     eslint-plugin-yml: 1.7.0
-    framer-motion: 10.12.10
+    framer-motion: 10.16.2
     husky: 8.0.3
     jest: 29.5.0
     jest-canvas-mock: 2.5.1
@@ -5430,9 +5430,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:10.12.10":
-  version: 10.12.10
-  resolution: "framer-motion@npm:10.12.10"
+"framer-motion@npm:10.16.2":
+  version: 10.16.2
+  resolution: "framer-motion@npm:10.16.2"
   dependencies:
     "@emotion/is-prop-valid": ^0.8.2
     tslib: ^2.4.0
@@ -5447,7 +5447,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: d4bdca5bc891534d6e4852a5725d1d0e8c29270a79927b50d8136d71e3d3affdca66dcb3a74e8c252fb4508292c4901cce20d93c3a35a4acdfa9a3f6ad9b57bb
+  checksum: 341de9ed9ad26e67306d6467a17f5260ce0e8a034f936f2af22f03a7fe4087de487a8aebcbc396ab591de7fe181926d0cd6a79ec1dca6172e85f7fdf5103484f
   languageName: node
   linkType: hard
 
