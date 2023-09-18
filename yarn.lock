@@ -4621,7 +4621,7 @@ __metadata:
     eslint-config-next: 13.4.2
     eslint-plugin-jest: 27.2.1
     eslint-plugin-testing-library: 5.11.0
-    eslint-plugin-yml: 1.7.0
+    eslint-plugin-yml: 1.9.0
     framer-motion: 10.12.10
     husky: 8.0.3
     jest: 29.5.0
@@ -5047,9 +5047,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-yml@npm:1.7.0":
-  version: 1.7.0
-  resolution: "eslint-plugin-yml@npm:1.7.0"
+"eslint-plugin-yml@npm:1.9.0":
+  version: 1.9.0
+  resolution: "eslint-plugin-yml@npm:1.9.0"
   dependencies:
     debug: ^4.3.2
     lodash: ^4.17.21
@@ -5057,7 +5057,7 @@ __metadata:
     yaml-eslint-parser: ^1.2.1
   peerDependencies:
     eslint: ">=6.0.0"
-  checksum: 4efc50259a8932ae9b6114ad4f49c25abaf8ff82af6bc2f7f9c1b5b06110e99823431e204a4d2b3a8a7165b74727c85bc5d20e02639d7bf03e90ea8d4d0b0a6d
+  checksum: d6ee8a32e1230e12aefc951040d06270f8c0fe9a7f93fa091a35eef05ebcf550556620ddabc65fcdb33700767445d6d07f71efd31021660ad51f1b8f0d0ed200
   languageName: node
   linkType: hard
 
