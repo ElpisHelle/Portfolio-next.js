@@ -3073,12 +3073,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:18.2.4":
-  version: 18.2.4
-  resolution: "@types/react-dom@npm:18.2.4"
+"@types/react-dom@npm:18.2.15":
+  version: 18.2.15
+  resolution: "@types/react-dom@npm:18.2.15"
   dependencies:
     "@types/react": "*"
-  checksum: 8301f35cf1cbfec8c723e9477aecf87774e3c168bd457d353b23c45064737213d3e8008b067c6767b7b08e4f2b3823ee239242a6c225fc91e7f8725ef8734124
+  checksum: 8e9631600c21ff561328e38a951d1991b3b3b20f538af4c0efbd1327c883a5573a63f50e1b945c34fa51b114b30e1ca5e62317bd54f21e063d6697b4be843a03
   languageName: node
   linkType: hard
 
@@ -4614,7 +4614,7 @@ __metadata:
     "@testing-library/user-event": 14.4.3
     "@types/node": 20.2.3
     "@types/react": 18.2.6
-    "@types/react-dom": 18.2.4
+    "@types/react-dom": 18.2.15
     autoprefixer: 10.4.14
     clsx: 1.2.1
     eslint: 8.41.0
